@@ -19,6 +19,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
         package="com.android.systemui">
 
+    <!-- QS Tiles -->
+    <uses-permission android:name="lineageos.permission.HARDWARE_ABSTRACTION_ACCESS" />
+
     <!-- SystemUI Tuner -->
     <application>
         <activity-alias
