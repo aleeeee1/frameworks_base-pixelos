@@ -67,4 +67,6 @@
          DOZE_AOD_PAUSED to DOZE_AOD state. -->
     <bool name="config_displayTurnsOnWhenResumingAod">false</bool>
 
+    <!-- Udfps vendor code -->
+    <integer name="config_udfpsVendorCode">0</integer>
 </resources>
