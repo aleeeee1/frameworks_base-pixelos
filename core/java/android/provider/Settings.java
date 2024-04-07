@@ -6717,6 +6717,13 @@ public final class Settings {
         @Readable
         public static final String GAMESPACE_GAME_LIST = "gamespace_game_list";
 
+	/**
+         * Volume rocker wake
+         * @hide
+         */
+        @Readable
+        public static final String VOLUME_ROCKER_WAKE = "volume_rocker_wake";
+
         /**
          * GameSpace: Whether fullscreen intent will be suppressed while in game session
          * @hide
